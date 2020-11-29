@@ -180,7 +180,7 @@
 #define FR_CUGR A(FR_LUGR) // Ù
 // Row 4
 #define FR_LTEQ A(FR_LABK) // ≤
-#define FR_LSAQ A(FR_W)    // ‹
+// #define FR_LSAQ A(FR_W)    // ‹
 #define FR_AEQL A(FR_X)    // ≈
 #define FR_COPY A(FR_C)    // ©
 #define FR_LOZN A(FR_V)    // ◊
@@ -238,6 +238,7 @@
 // Row 4
 #define FR_GTEQ S(A(FR_LABK)) // ≥
 #define FR_RSAQ S(A(FR_W))    // ›
+// #define FR_LSAQ S(A(FR_W))    // ›
 #define FR_FRSL S(A(FR_X))    // ⁄
 #define FR_CENT S(A(FR_C))    // ¢
 #define FR_SQRT S(A(FR_V))    // √
